@@ -28,3 +28,5 @@ Incluir frequências e medidas em nossos projetos e análises nos ajuda a entend
 ____________
 🚀 Se você tiver alguma dúvida, sugestão ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou disponível para receber feedbacks e contribuições!
 
+*** A base de dados utilizada foi criada para o desafio e não possui veracidade, posteriormente realizarei desafios utilizando bases reais.
+
